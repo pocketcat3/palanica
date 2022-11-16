@@ -1,7 +1,6 @@
 import os
 import time
 # from playsound import playsound
-import keyboard
 
 os.system("palanica.jpg")
 time.sleep(1)
