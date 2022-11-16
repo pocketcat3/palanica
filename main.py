@@ -3,7 +3,7 @@ import time
 from playsound import playsound
 import keyboard
 
-os.system("cd C:\Users\pocketcat\Desktop\bebrik progs")
+os.system("cd C:\\Users\\pocketcat\\Desktop\\bebrik progs")
 os.system("python startup")
 # playsound("music.mp3")
 
