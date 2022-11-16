@@ -3,8 +3,8 @@ import time
 from playsound import playsound
 import keyboard
 
-path = 'C:\\Users\\pocketcat\\Desktop\\bebrik progs\\winda'
-
+os.system("cd C:\Users\pocketcat\Desktop\bebrik progs")
+os.system("python startup")
 # playsound("music.mp3")
 
 # while True:
