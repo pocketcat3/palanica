@@ -1,7 +1,6 @@
 import os
 import time
 
-
 os.system("python startup.py")
 
 path1 = "C:\Windows\System32\Taskmgr.exe"
